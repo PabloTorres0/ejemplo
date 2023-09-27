@@ -1,9 +1,8 @@
-"use client"
+'use client'
 import React from 'react'
 import Card from 'react-bootstrap/Card'
 
 const Home: React.FC = () => {
-
   return (
     <div>
       <Card style={{ width: '24rem' }} className="mx-auto mt-3 mb-3">
@@ -22,7 +21,7 @@ const Home: React.FC = () => {
         </div>
         <Card.Body>
           <Card.Title>PABLO JAVIER TORRES MARTÍNEZ</Card.Title>
-          <Card.Text>Agenda de Contactos</Card.Text>
+          <Card.Text>Agenda sdad de Contactos</Card.Text>
         </Card.Body>
 
         <Card.Body>
@@ -33,4 +32,4 @@ const Home: React.FC = () => {
   )
 }
 
-export  default Home
+export default Home
