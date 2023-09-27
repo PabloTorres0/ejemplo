@@ -25,7 +25,7 @@ const Home: React.FC = () => {
         </Card.Body>
 
         <Card.Body>
-          <Card.Link href="/contacts">Contactossssss</Card.Link>
+          <Card.Link href="/contacts">Contactossssss 111111</Card.Link>
         </Card.Body>
       </Card>
     </div>
