@@ -21,7 +21,7 @@ const Home: React.FC = () => {
         </div>
         <Card.Body>
           <Card.Title>PABLO JAVIER TORRES MARTÍNEZ</Card.Title>
-          <Card.Text>Agenda sdad de Contactos</Card.Text>
+          <Card.Text>Agenda de Contactos</Card.Text>
         </Card.Body>
 
         <Card.Body>
